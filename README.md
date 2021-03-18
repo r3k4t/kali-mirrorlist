@@ -26,7 +26,7 @@
 + deb http://http.kali.org/kali kali-dev-only  main contrib non-free
 + deb-src http://http.kali.org/kali kali-dev-only  main contrib non-free
 
-### kali-debian-picks ###
+### Kali-debian-picks ###
 + deb http://http.kali.org/kali kali-debian-picks main contrib non-free
 + deb-src http://http.kali.org/kali kali-debian-picks main contrib non-free
 
